@@ -1,0 +1,7 @@
+﻿components/MedicalModel3D.tsx(66,28): error TS2339: Property 'fov' does not exist on type 'Camera'.
+  Property 'fov' does not exist on type 'OrthographicCamera & { manual?: boolean; }'.
+features/ActivityTracker.tsx(9,18): error TS2307: Cannot find module 'leaflet/dist/images/marker-icon.png' or its corresponding type declarations.
+features/ActivityTracker.tsx(10,24): error TS2307: Cannot find module 'leaflet/dist/images/marker-shadow.png' or its corresponding type declarations.
+features/DrugImpactVisualizer.tsx(4,10): error TS2305: Module '"../services/geminiService"' has no exported member 'analyzeDrugImpact'.
+features/DrugImpactVisualizer.tsx(5,10): error TS2305: Module '"../types"' has no exported member 'DrugAnalysisResult'.
+services/geminiService.ts(8,34): error TS2339: Property 'env' does not exist on type 'ImportMeta'.

@@ -1,0 +1,91 @@
+{
+  "ganeshgouli204@gmail.com": {
+    "registeredAt": "2025-12-12T12:14:39.444Z",
+    "logs": {
+      "2026-01-31": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": true,
+        "anyLog": true,
+        "caloriesIn": 650,
+        "caloriesOut": 300,
+        "loggedFoods": [
+          {
+            "name": "Poori",
+            "calories": 187.2,
+            "source": "counter"
+          },
+          {
+            "name": "Chole Masala",
+            "calories": 280,
+            "source": "counter"
+          },
+          {
+            "name": "Green Chilies",
+            "calories": 2,
+            "source": "counter"
+          }
+        ]
+      },
+      "2026-02-14": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "anyLog": false,
+        "caloriesIn": 0,
+        "caloriesOut": 23.741266666666668,
+        "loggedFoods": []
+      }
+    },
+    "sentReminders": {
+      "2025-12-12": {},
+      "2026-01-31": {},
+      "2026-02-14": {},
+      "2026-02-15": {
+        "dinnerStart": true
+      }
+    }
+  },
+  "Ganeshgouli204@gmail.com": {
+    "registeredAt": "2026-01-31T20:45:45.020Z",
+    "logs": {},
+    "sentReminders": {
+      "2026-02-14": {},
+      "2026-02-15": {
+        "dinnerStart": true
+      }
+    }
+  },
+  "darshanwali3023@gmail.com": {
+    "registeredAt": "2026-02-14T09:10:58.723Z",
+    "logs": {},
+    "sentReminders": {
+      "2026-02-15": {
+        "dinnerStart": true
+      }
+    }
+  },
+  "ganesh@gmail.com": {
+    "registeredAt": "2026-02-15T14:26:28.207Z",
+    "logs": {},
+    "sentReminders": {
+      "2026-02-15": {
+        "dinnerStart": true
+      }
+    }
+  },
+  "adc@gmail.com": {
+    "registeredAt": "2026-02-15T14:28:02.996Z",
+    "logs": {},
+    "sentReminders": {
+      "2026-02-15": {
+        "dinnerStart": true
+      }
+    }
+  },
+  "adsad@gmail.com": {
+    "registeredAt": "2026-02-15T16:36:20.404Z",
+    "logs": {},
+    "sentReminders": {}
+  }
+}
